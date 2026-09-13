@@ -3,6 +3,6 @@
   "description": "CloudStream extension repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/OWNER/REPO/main/plugins.json"
+    "https://raw.githubusercontent.com/chatredprivate/intsp/main/plugins.json"
   ]
 }
