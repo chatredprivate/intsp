@@ -1,0 +1,15 @@
+[
+  {
+    "name": "inat-box",
+    "internalName": "inat-box",
+    "description": "Inat Box CloudStream extension",
+    "authors": ["pltmustafa"],
+    "language": "tr",
+    "version": 3,
+    "apiVersion": 1,
+    "status": 1,
+    "fileSize": 55860,
+    "fileHash": "sha256-d10aa76dc4bbc15eea4db3adeb0f3b5fb468609fe5a10b7014ef6cd5408c3edb",
+    "url": "https://raw.githubusercontent.com/OWNER/REPO/main/inat-box.cs3"
+  }
+]

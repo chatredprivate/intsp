@@ -1,0 +1,8 @@
+{
+  "name": "Inat Box Repository",
+  "description": "CloudStream extension repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/OWNER/REPO/main/plugins.json"
+  ]
+}
