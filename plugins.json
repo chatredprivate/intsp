@@ -2,8 +2,8 @@
   {
     "name": "inat-box",
     "internalName": "inat-box",
-    "description": "Inat Box CloudStream extension",
-    "authors": ["pltmustafa"],
+    "description": "Red INTBox CloudStream Extension",
+    "authors": ["redteam"],
     "language": "tr",
     "version": 3,
     "apiVersion": 1,
